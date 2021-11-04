@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Sat Oct  2 22:45:35 2021
+# Process ID: 12444
+# Current directory: C:/Users/PC/Desktop/605/Lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7728 C:\Users\PC\Desktop\605\Lab3\Lab3.xpr
+# Log file: C:/Users/PC/Desktop/605/Lab3/vivado.log
+# Journal file: C:/Users/PC/Desktop/605/Lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/PC/Desktop/605/Lab3/Lab3.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/PC/Desktop/605/Lab3/Lab3.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xlinx/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:08 . Memory (MB): peak = 1474.398 ; gain = 0.000
+update_compile_order -fileset sources_1

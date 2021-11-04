@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Oct 19 19:21:40 2021
+# Process ID: 7142
+# Current directory: /ad/eng/users/h/h/hhn/Downloads/Lab3_ver3/Lab3.runs/synth_1
+# Command line: vivado -log wrap_around_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source wrap_around_led.tcl
+# Log file: /ad/eng/users/h/h/hhn/Downloads/Lab3_ver3/Lab3.runs/synth_1/wrap_around_led.vds
+# Journal file: /ad/eng/users/h/h/hhn/Downloads/Lab3_ver3/Lab3.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source wrap_around_led.tcl -notrace
